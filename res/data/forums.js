@@ -567,14 +567,14 @@ const db_forums = [
         ]
     },
     {
-        title: "MineFriend",
-        url: "http://feiyutang.cn",
+        title: "MCBBS3",
+        url: "https://fwrec.com/",
         state: "down",
         createdAt: "2024/02/20",
         updatedAt: "2024/05/07",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，后改为使用 WordPress 搭建论坛，现改回使用 XenForo 搭建论坛，名称重新改为 MineFriend。无法访问。",
+        note: "非大陆服务器。原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，后改为使用 WordPress 搭建论坛，现改回使用 XenForo 搭建论坛，名称重新改为 MineFriend。因数据问题，现在重新开站。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
